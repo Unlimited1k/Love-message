@@ -1,0 +1,17 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+
+  .fun{
+    color: rgb(26, 44, 241);
+  }
+
+  #click-here{
+    color: rgb(217, 22, 22);
+  }
+
+  *{
+    text-align: center;
+  }
